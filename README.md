@@ -4,7 +4,7 @@
 - 🔭 I’m currently completing a Bootcamp in Full Stack PHP at [IT Academy](https://cibernarium.barcelonactiva.cat/it-academy/inscripcio)  
   
 
-- 📚 On weekends, I'm doing a Specialization in Front End Web Developer at [La Salle - Universidad Ramon Lluill](https://www.salleurl.edu/es/estudios/cursos-de-especializacion)  
+- 📚 On weekends, I'm doing a Specialization in Front End Web Developer at [La Salle - Universidad Ramon Llull](https://www.salleurl.edu/es/estudios/cursos-de-especializacion)  
   
 
 - 🚴‍♀️ In my free time, I enjoy indoor cycling, which I practice every day of the week, and I'm discovering Barre, something new for me that I love 🩰.  
