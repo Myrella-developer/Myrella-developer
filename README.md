@@ -1,17 +1,13 @@
-### <div align="center">Hii there 👋🏼, I'm Myrella Almeida 👩🏻‍💻</div>  
-  
+### <div align="center">Hi there 👋🏼, I'm Myrella Almeida 👩🏻‍💻</div>  
 
-- 🔭 I’m currently completing a Bootcamp in Full Stack PHP at [IT Academy](https://cibernarium.barcelonactiva.cat/it-academy/inscripcio)  
-  
+- 👩🏻‍💻 I’m currently working as a **Front End Developer with a strong focus on UI development and attention to user experience** at [La Salle - Universitat Ramon Llull](https://www.salleurl.edu/), where I also completed a specialization in Front End Development.  
 
-- 📚 On weekends, I'm doing a Specialization in Front End Web Developer at [La Salle - Universidad Ramon Llull](https://www.salleurl.edu/es/estudios/cursos-de-especializacion)  
-  
+- 🧠 I recently completed a **Full Stack PHP Bootcamp** at [IT Academy](https://cibernarium.barcelonactiva.cat/it-academy/inscripcio), where I developed practical projects using Laravel, Vue, and MySQL.  
 
-- 🚴‍♀️ In my free time, I enjoy indoor cycling, which I practice every day of the week, and I'm discovering Barre, something new for me that I love 🩰.  
-  
+- 🚴‍♀️ In my free time, I enjoy indoor cycling and I’ve recently fallen in love with Barre — a fun and challenging mix of ballet and fitness 🩰.  
 
-- 🌟 An interesting fact about me is that at the age of 25, I decided to turn my life around, leaving Brazil and my newly formed career in Engineering to start from scratch in Barcelona, something I don't regret and that makes me very happy.  
-  
+- 🌍 At 25, I made a life-changing decision to leave Brazil and my early career in Engineering to start over in Barcelona — one of the best choices I've ever made.  
+
 
 <br/>  
 
